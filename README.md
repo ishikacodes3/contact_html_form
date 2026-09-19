@@ -26,9 +26,9 @@ The form allows users to enter their name, email address, and a message.
 
 Contact-Form/
 │
-├── contact.html
+├── index.html
 ├── contact.css
-└── contact-form.png
+└── contact_html_ss.png
 
 ##🎯 Purpose
 
