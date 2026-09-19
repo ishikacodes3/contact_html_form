@@ -20,7 +20,7 @@ The form allows users to enter their name, email address, and a message.
 
 ##📸 Screenshot
 
-![Contact Form Screenshot] (contact_html_ss.png)
+![Contact Form Screenshot](contact_html_ss.png)
 
 📂 Project Structure
 
